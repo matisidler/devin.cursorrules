@@ -1,7 +1,7 @@
 {
     "project_name": "my-project",
     "project_type": ["cursor", "windsurf"],
-    "llm_api_key": "default",
+    "llm_api_key": "",
     "_copy_without_render": [
         "*.py",
         "*.md",
